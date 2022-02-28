@@ -1,0 +1,377 @@
+*{
+    background-color: black;
+    font-family:'Fredoka One' ;
+}
+.topnav{
+  margin-top: 2.5vw;
+  margin-left: 11vw;
+}
+
+
+.topnav-centered a{
+    font-family:Fredoka One;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2vw 0.5vw;
+    text-decoration: none;
+    font-size: 1.7vw;
+    padding-top: 8vw;
+    margin-left: 5vw;
+  }
+
+  .topnav-centered a:hover {
+    border-radius: 0.5vw;
+    background-color: black;
+    color: rgb(163, 81, 30);
+  }
+  
+img.logo{
+    height: 14vw;
+    width: 14vw;
+    margin-top: -26vw;
+    border-radius: 100%;
+    display: block;
+    margin-left: 55.25vw;
+    margin-right: auto;
+    border: 1vw ridge white;  
+   
+}
+
+img.logo1{
+  height: 10vw;
+  width: 10vw;
+  margin-top: 5vw;
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+  
+.title{
+  letter-spacing: 2vw;
+  text-align: center;
+  margin-top: -5vw;
+  border:2vw #f2f2f2;
+  font-size: 7.5vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  text-align: center;
+  margin-left: 1vw;
+}
+.title1{
+  letter-spacing: 1vw;
+  text-align: center;
+  margin-top: -5vw;
+  border:0vw #f2f2f2;
+  font-size: 6vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  text-align: center;
+  margin-left: 1vw;
+}
+.title2{
+  letter-spacing: 1vw;
+  text-align: center;
+  margin-top: -6vw;
+  border:0vw #f2f2f2;
+  font-size: 4vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  text-align: center;
+  margin-left: 1vw;
+}
+.title3{
+  letter-spacing: 1vw;
+  text-align: center;
+  margin-top: 4vw;
+  border:0vw #f2f2f2;
+  font-size: 2vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  text-align: center;
+  margin-left: 1vw;
+}
+
+.line{width: 50vw; height:0.2vw; border:0 none; background:#ffffff; position: relative; right:2vw;left: -0.5vw; top:-3.5vw}
+
+p.about{
+  text-align: center;
+  word-spacing: 0.5vw;
+  line-height: 2.7vw;
+  letter-spacing: 0.2vw;
+  margin-top: 6vw;
+  border:0vw #f2f2f2;
+  font-size: 1.8vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+p.about1{
+  text-align: center;
+  word-spacing: 0.5vw;
+  line-height: 2.7vw;
+  letter-spacing: 0.2vw;
+  margin-top: 6vw;
+  border:0vw #f2f2f2;
+  font-size: 1.8vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+.rectangle{
+  height: 47vw;
+  width: 28vw;
+  border: 0.25vw ridge white;
+  background-color:rgb(0, 0, 0);
+border-radius: 5%;
+margin-left: 15vw;
+margin-top: 5vw;
+}
+
+img.team{
+  margin-top: 3vw;
+  margin-left: 0.20vw;
+  width: 25vw;
+  height: 25vw;
+  border-radius: 100%;
+}
+img.team1{
+  margin-top: 3vw;
+  margin-left: 0.05vw;
+  width: 25vw;
+  height: 25vw;
+  border-radius: 100%;
+}
+img.insta{
+  width: 2.5vw;
+  height: 2.5vw;
+ background-color: rgb(0, 0, 0);
+ text-decoration: none;
+ margin-left: -1vw;
+}
+img.twitter{
+  width: 2.5vw;
+  height:2.5vw;
+  background-color: rgb(0, 0, 0);
+  margin-left: 4vw;
+}
+img.linkedin{
+  width: 2.5vw;
+  height: 2.5vw;
+  background-color: rgb(0, 0, 0);
+  margin-left: 4vw;
+  margin-top: 2vw;
+}
+
+.rectangle1{
+  margin-left: 55vw;
+  margin-top: -47.3vw;
+height: 47vw;
+  width: 28vw;
+  border: 0.25vw ridge white;
+  background-color:rgb(0, 0, 0);
+border-radius: 5%;}
+
+h2.name{
+  background-color: rgb(0, 0, 0);
+  letter-spacing: 0.5vw;
+  text-align: center;
+  margin-top: 0.3vw;
+  border:0vw #f2f2f2;
+  font-size: 4vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  text-align: center;
+  margin-left: 1vw;
+}
+p.desc{
+  text-align: center;
+  word-spacing: 0.5vw;
+  letter-spacing: 0.05vw;
+  margin-top: -1vw;
+  border:0vw #f2f2f2;
+  background-color: rgb(0, 0, 0);
+  font-size: 1.2vw;
+  color:rgb(255, 255, 255);
+  font-family: 'Fredoka One';
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.container {
+  margin: 0 auto;
+  padding: 4.685212298682284vw;
+  width: 56.22254758418741vw;
+  font-size: 2vw;
+}
+
+.accordion .accordion-item {
+  border-bottom: 0.07320644216691069vw solid #e5e5e5;
+}
+
+.accordion .accordion-item button[aria-expanded='true'] {
+  border-bottom: 0.07320644216691069vw solid rgb(163, 81, 30);
+}
+
+.accordion button {
+  position: relative;
+  display: block;
+  text-align: left;
+  width: 100%;
+  padding: 1.171303074670571vw 0;
+  color: #ffffff;
+  font-size:  1.3469985358711565vw;
+  font-weight: 400;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.accordion button:hover,
+.accordion button:focus {
+  cursor: pointer;
+  color: rgb(163, 81, 30);
+}
+
+.accordion button:hover::after,
+.accordion button:focus::after {
+  cursor: pointer;
+  color: rgb(163, 81, 30);
+  border:0.07320644216691069vw solid rgb(163, 81, 30);
+}
+
+.accordion button .accordion-title {
+  padding: 1.171303074670571vw 1.7569546120058566vw 1.171303074670571vw 0;
+}
+
+.accordion button .icon {
+  display: inline-block;
+  position: absolute;
+  top: 1.3177159590043923vw;
+  right: 0;
+  width: 1.610541727672035vw;
+  height: 1.610541727672035vw;
+  border: 0.07320644216691069vw solid;
+  border-radius: 1.610541727672035vw;
+}
+
+.accordion button .icon::before {
+  display: block;
+  position: absolute;
+  content: '';
+  top:  0.6588579795021962vw;
+  left: 0.36603221083455345vw;
+  width: 0.7320644216691069vw;
+  height:  0.14641288433382138vw;
+  background: currentColor;
+}
+.accordion button .icon::after {
+  display: block;
+  position: absolute;
+  content: '';
+  top:0.36603221083455345vw;
+  left:  0.6588579795021962vw;
+  width: 0.14641288433382138vw;
+  height: 0.7320644216691069vw;
+  background: currentColor;
+}
+
+.accordion button[aria-expanded='true'] {
+  color: rgb(163, 81, 30);
+}
+.accordion button[aria-expanded='true'] .icon::after {
+  width: 0;
+}
+.accordion button[aria-expanded='true'] + .accordion-content {
+  opacity: 1;
+  max-height: 10.541727672035138vw;
+  transition: all 200ms linear;
+  will-change: opacity, max-height;
+}
+.accordion .accordion-content {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 200ms linear, max-height 200ms linear;
+  will-change: opacity, max-height;
+}
+.accordion .accordion-content p {
+  font-size: 1.25vw;
+  word-spacing: 0.25vw;
+  letter-spacing: 0.25vw;
+  font-weight: 300;
+  text-align: left;
+  line-height: 1.6vw;
+  margin:2.342606149341142vw 0;
+}
+.socialmedia{
+  margin-top: 6.5vw;
+  margin-left: 18.5vw;
+}
+
+img.inst{
+  width: 5vw;
+  height: 5vw;
+  margin-left: -20vw;
+}
+
+img.tweet{
+  width: 5vw;
+  height: 5vw;
+  margin-left:12.5vw;
+}
+img.rarible{
+  width: 5vw;
+  height: 5vw;
+  margin-left:12.5vw;
+}
+.collab{
+  letter-spacing: 0.25vw;
+  font-size: 1.5vw;
+}
+
+.contact{
+  border-radius: 5%;
+  height: 6.5vw;
+  width: 25vw;
+  margin-left:35vw;
+  border: 0.25vw ridge white;
+  background-color: black;
+ 
+}
+
+h3.us{
+  margin-top: 1.5vw;
+  margin-bottom: 10vw;
+  text-align: center;
+
+}
+
+.contact h3:hover {
+  border-radius: 0.5vw;
+  background-color: black;
+  color: rgb(163, 81, 30);
+}
+
+.footer{
+  font-size: 1.2vw;
+  margin-top: 5vw;
+  letter-spacing: 0.5vw  ;
+}
+
+
+
