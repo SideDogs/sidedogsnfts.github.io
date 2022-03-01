@@ -61,13 +61,20 @@ img.logo1{
 .title1{
   letter-spacing: 1vw;
   text-align: center;
-  margin-top: -5vw;
+  margin-top: 8vw;
   border:0vw #f2f2f2;
-  font-size: 6vw;
+  font-size: 5vw;
   color:rgb(255, 255, 255);
   font-family: 'Fredoka One';
   text-align: center;
   margin-left: 1vw;
+  margin-bottom: 12vw;
+}
+
+.title1 h6:hover {
+  border-radius: 0.5vw;
+  background-color: black;
+  color: rgb(163, 81, 30);
 }
 .title2{
   letter-spacing: 1vw;
